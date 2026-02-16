@@ -8,7 +8,7 @@ title: Preparation Reading 01: Introduction
 ## Overview
 
 !!!time "Estimated Reading Time"
-	Plan on around 90 - 120 minutes for this preparation reading.
+	Plan on around 90 - 121 minutes for this preparation reading.
 
 Broadly speaking, there are three main types of machine learning: reinforcement learning, unsupervised learning, and supervised learning.
 
